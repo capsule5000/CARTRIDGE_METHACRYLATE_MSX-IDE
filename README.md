@@ -4,6 +4,6 @@ This methacrylate cartridge is specially designed for the MSX-IDE PCB. It has al
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Multicontroller_RBSC/blob/main/Images/front_MSX-IDE.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Multicontroller_RBSC/blob/main/Images/front_msx_ide.png)
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Multicontroller_RBSC/blob/main/Images/front2_MSX-IDE.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Multicontroller_RBSC/blob/main/Images/front2_msx_ide.png)
