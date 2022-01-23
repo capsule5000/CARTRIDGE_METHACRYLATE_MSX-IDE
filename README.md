@@ -4,6 +4,10 @@ This methacrylate cartridge is specially designed for the MSX-IDE PCB. It has al
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_MSX-IDE/blob/main/Images/front_msx_ide.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_MSX-IDE/blob/main/Images/front1_msx_ide.png)
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_MSX-IDE/blob/main/Images/front2_msx_ide.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_MSX-IDE/blob/main/Images/front21_msx_ide.png)
+
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_MSX-IDE/blob/main/Images/case1.png)
+
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_MSX-IDE/blob/main/Images/case2.png)
