@@ -1,6 +1,6 @@
 # CARTRIDGE_METHACRYLATE_MSX-IDE
 
-This methacrylate cartridge is specially designed for the MSX-IDE PCB. It has all the custom cutouts for the IDE interface. It also incorporates the STL file to 3D print the separators that close the cartridge. You have to superglue the back of the cartridge with the sides and top of the casing
+This methacrylate cartridge is specially designed for the MSX-IDE PCB. It has all the custom cutouts for the IDE interface. It also incorporates the STL file to 3D print the separators that close the cartridge. You have to superglue the back of the cartridge with the sides and top of the casing. Size screw  2.5mmx6mm
 
 # IMAGES
 
